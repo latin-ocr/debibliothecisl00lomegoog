@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./debibliothecisl00lomegoog_0019.png"; bbox 0 0 619 965; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 85 79 508 183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 85 79 508 183">
+     <span class='ocr_line' id='line_1_1' title="bbox 85 79 508 131; baseline -0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 85 82 286 129; x_wconf 79' lang='lat' dir='ltr'>JOHANle</span> <span class='ocrx_word' id='word_1_2' title='bbox 309 79 508 131; x_wconf 54' lang='lat' dir='ltr'><em>{mmmmm</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 161 147 435 183; baseline 0 -14"><span class='ocrx_word' id='word_1_3' title='bbox 161 147 276 176; x_wconf 62' lang='lat' dir='ltr'><em>Ecclefiqstae</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 284 148 435 183; x_wconf 39' lang='lat' dir='ltr'><em>Zutphan&#39;q&#39;eznfis</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 77 201 515 291">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 77 201 515 291">
+     <span class='ocr_line' id='line_1_3' title="bbox 77 201 515 291; baseline -0.009 0"><span class='ocrx_word' id='word_1_5' title='bbox 77 247 226 291; x_wconf 89' lang='lat' dir='ltr'>BIBLI</span> <span class='ocrx_word' id='word_1_6' title='bbox 234 201 479 289; x_wconf 40' lang='lat' dir='ltr'>OilfiHECI</span> <span class='ocrx_word' id='word_1_7' title='bbox 486 247 515 287; x_wconf 89' lang='lat' dir='ltr'>S</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 123 327 471 350">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 123 327 471 350">
+     <span class='ocr_line' id='line_1_4' title="bbox 123 327 471 350; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 123 327 226 349; x_wconf 75' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_9' title='bbox 250 327 471 350; x_wconf 77' lang='lat' dir='ltr'>SINGULARIS.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 76 380 552 441">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 76 380 552 441">
+     <span class='ocr_line' id='line_1_5' title="bbox 76 380 514 409; baseline 0.002 -6"><span class='ocrx_word' id='word_1_10' title='bbox 76 380 145 403; x_wconf 77' lang='lat' dir='ltr'><em>Editio</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 151 381 246 409; x_wconf 59' lang='lat' dir='ltr'><em>limnda,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 256 382 316 409; x_wconf 72' lang='lat' dir='ltr'><em>priore*</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 327 381 387 402; x_wconf 69' lang='lat' dir='ltr'><em>multia</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 394 382 478 404; x_wconf 69' lang='lat' dir='ltr'><em>tumor,</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 489 380 514 404; x_wconf 72' lang='grc' dir='ltr'>ά</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 133 408 552 441; baseline 0.002 -11"><span class='ocrx_word' id='word_1_16' title='bbox 133 408 201 431; x_wconf 59' lang='lat' dir='ltr'><em>addita</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 204 417 266 431; x_wconf 79' lang='lat' dir='ltr'><em>rerum</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 269 409 336 441; x_wconf 60' lang='lat' dir='ltr'><em>studia</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 340 409 453 439; x_wconf 69' lang='lat' dir='ltr'><em>locupletior.</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 466 416 471 422; x_wconf 88' lang='lat'>·</span> <span class='ocrx_word' id='word_1_21' title='bbox 549 417 552 422; x_wconf 86' lang='grc'><em>·</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 150 488 422 746">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 150 488 422 746">
+     <span class='ocr_line' id='line_1_7' title="bbox 150 488 422 746; baseline 0 219"><span class='ocrx_word' id='word_1_22' title='bbox 150 488 422 746; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 75 791 535 890">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 75 791 535 890">
+     <span class='ocr_line' id='line_1_8' title="bbox 183 791 409 815; baseline 0.004 -5"><span class='ocrx_word' id='word_1_23' title='bbox 183 791 202 810; x_wconf 80' lang='lat'><em>11</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 210 792 224 810; x_wconf 75' lang='grc' dir='ltr'><em>ι,</em></span> <span class='ocrx_word' id='word_1_25' title='bbox 234 792 249 810; x_wconf 86' lang='grc' dir='ltr'>τ</span> <span class='ocrx_word' id='word_1_26' title='bbox 257 792 273 811; x_wconf 65' lang='grc' dir='ltr'><em>ιι</em></span> <span class='ocrx_word' id='word_1_27' title='bbox 280 791 296 811; x_wconf 73' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_28' title='bbox 307 793 337 815; x_wconf 71' lang='grc' dir='ltr'><em>με</em></span> <span class='ocrx_word' id='word_1_29' title='bbox 346 793 361 810; x_wconf 90' lang='lat' dir='ltr'><strong>c</strong></span> <span class='ocrx_word' id='word_1_30' title='bbox 370 793 384 810; x_wconf 88' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_31' title='bbox 392 791 409 812; x_wconf 85' lang='lat'><em>1,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 75 823 535 851; baseline -0.007 -4"><span class='ocrx_word' id='word_1_32' title='bbox 75 823 306 851; x_wconf 67' lang='lat' dir='ltr'>ExofficimJomnnn</span> <span class='ocrx_word' id='word_1_33' title='bbox 313 825 535 850; x_wconf 54' lang='lat' dir='ltr'><em>Rxauhss&#39;ffimnxt‘.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 159 861 450 890; baseline -0.007 -1"><span class='ocrx_word' id='word_1_34' title='bbox 159 861 214 887; x_wconf 60' lang='lat'><em>*⁴¹⁰9</em></span> <span class='ocrx_word' id='word_1_35' title='bbox 230 862 270 889; x_wconf 61' lang='lat'><em>,⁶12</em></span> <span class='ocrx_word' id='word_1_36' title='bbox 289 864 314 890; x_wconf 59' lang='grc' dir='ltr'><em>Β,</em></span> <span class='ocrx_word' id='word_1_37' title='bbox 333 863 450 890; x_wconf 52' lang='lat' dir='ltr'><em>§Lxxx-</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
